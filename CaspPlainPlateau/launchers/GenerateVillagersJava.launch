@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CaspFishing/src/caspFishing/GenerateVillagersJava.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="PATH" value="${resource_loc:/CaspFishing/SWI_PROLOG_LOC/lib/jpl.jar};${resource_loc:/CaspFishing/SWI_PROLOG_LOC}/bin"/>
+<mapEntry key="SWI_HOME_DIR" value="${resource_loc:/CaspFishing/SWI_PROLOG_LOC}"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="caspFishing.GenerateVillagersJava"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CaspFishing"/>
+</launchConfiguration>

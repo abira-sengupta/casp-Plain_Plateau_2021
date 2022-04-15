@@ -1,0 +1,82 @@
+The sequence of activities in the PlainPlateau scenario: 
+
+startTick() [@ScheduledMethod(start = 1, interval = 1, priority=ScheduleParameters.FIRST_PRIORITY)][Controller.java]
+
+    setGlobalTick(currentTick)     //specified
+
+
+getIncome() [@ScheduledMethod(start = 1, interval = CYCLE_LENGTH)] [Controller.java]
+
+     asserted "receive_income()"
+	 
+	 
+addNewRole() [@ScheduledMethod(start = 1, interval = CYCLE_LENGTH, priority=ScheduleParameters.LAST_PRIORITY)] [Controller.java]
+	
+	call "whoMovedToPlain.clear();"
+	
+	
+logNewFluents() [@ScheduledMethod(start = 1, interval = 1, priority=ScheduleParameters.FIRST_PRIORITY)] [ Controller.java]
+    
+	"holdsAt(Fluent)"
+	
+logNewEvents() [@ScheduledMethod(start = 1, interval =  1, priority=ScheduleParameters.LAST_PRIORITY)] [Controller.java]
+    "happensAtNarrative(Event)"
+	
+	
+makeDecision() [@ScheduledMethod(start = 2, interval =  CYCLE_LENGTH)][CitizenAgent.java]
+    
+	 This method used for all type of actions. 
+	 
+	 1. "doJoin()"
+	 2. "makeConsumed()"
+	 3. "doRepair()"
+	 4. "make_receive()"
+	 5. "make_change_role()"  [when action is "Move_to_Plateau!"] or ["Move_to_Plain"]
+	
+	
+occurrenceOfDamage() [@ScheduledMethod(start = 3, interval = CYCLE_LENGTH)] [Controller.java]
+    
+	asserted "damage()"
+	
+
+collectionOfTax()[@ScheduledMethod(start = 4, interval = CYCLE_LENGTH, priority=ScheduleParameters.FIRST_PRIORITY )][GovernmentAgent.java]
+    
+	asserted "taxed()"
+	
+
+giveCompensation() [@ScheduledMethod(start = 4, interval = CYCLE_LENGTH, priority=ScheduleParameters.LAST_PRIORITY  )][GovernmentAgent.java]
+
+	 asserted "compensate()"
+	 
+	 
+step() [@ScheduledMethod(start = 4, interval = CYCLE_LENGTH)] [GovernmentAgent.java]
+
+    This method used for all type of actions. 
+	
+	1. makeCompensate()     // Depends on flood
+	2. makenoCompensate()   // Depends on flood
+	3. collectTax()         // Depends on noflood
+	
+	
+repair() [@ScheduledMethod(start = 5, interval = CYCLE_LENGTH)][CitizenAgent.java]
+
+    asserted "repair()"
+	
+	
+consume() [@ScheduledMethod(start = 6, interval = CYCLE_LENGTH)] [Citizenagent.java]
+    
+	asserted "consumed()"
+	
+	
+checkForEnd() [@ScheduledMethod(start =  CYCLE_LENGTH, interval = CYCLE_LENGTH, priority=ScheduleParameters.LAST_PRIORITY)][Controller.java]
+
+    call "addNewRoles()"
+	call  "starttick()"
+
+
+RunEnvironment.getInstance().endAt(stopTime)    //defined within the constructor of the Controller
+
+	 
+
+// git remote set-url origin ssh://git@bitbucket.org/scranefield/casp-plain-plateau-scenario.git
+	 

@@ -1,0 +1,17 @@
+[
+  {
+    "agentCount": 1,
+    "agentType": "caspPlainPlateauNorm.agents.GovernmentAgent",
+    "prologType": "agent",
+    "json": {
+      "roleFileNames": [],
+      "roleClassNames": [
+        "caspPlainPlateauNorm.objectroles.DiscretionaryRegimeRole",
+        "caspPlainPlateauNorm.objectroles.RulesBasedRegimeRole"
+      ],
+      "ptype": "agent",
+      "name": "Government"
+    }
+  }
+  
+]

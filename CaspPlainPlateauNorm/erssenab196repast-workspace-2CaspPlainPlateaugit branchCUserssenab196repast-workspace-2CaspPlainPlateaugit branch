@@ -1,0 +1,766 @@
+[33mcommit 47da40350b9e2058660f027651cced2f4acaebdd[m[33m ([m[1;36mHEAD -> [m[1;32mcitizens.nash.expectation[m[33m, [m[1;31morigin/citizens.nash.expectation[m[33m)[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Mar 18 13:58:24 2021 +1300
+
+    Updated labels within Controller
+
+[33mcommit be022a4b9d8058def4379c026837e3e2a85d7ba4[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Feb 3 16:41:35 2021 +1300
+
+    Updated code based on two regime
+
+[33mcommit cf8ef810732de9850e303afda9f7ac0f116fb912[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Feb 1 22:29:56 2021 +1300
+
+     Updated code
+
+[33mcommit 70e44dcad2f2cf7e4cf94a638db691fe7f58bb4f[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Wed Jan 13 02:28:36 2021 +0000
+
+    debug.log.1 edited online with Bitbucket. Debug files should not be in the repository
+
+[33mcommit a58a1149dcd4cedbe5e1c72542b87bcc8d08c940[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Jan 13 13:36:11 2021 +1300
+
+    New code based on regime to select perticular game
+
+[33mcommit acad00011d71f0ca379117a3dbefc4d2c801fbb4[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Nov 26 15:36:37 2020 +1300
+
+     Updated code to check how many nash value are there
+
+[33mcommit a2647f6d78832f3abb2c8ded3a0ed17bad6333c6[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Nov 24 16:14:55 2020 +1300
+
+    New casp jar
+
+[33mcommit 2a14d25ef921ff501cdedf6387ed7129b32b31ed[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Nov 24 16:02:21 2020 +1300
+
+     new del.pl file
+
+[33mcommit 6e8fa594dad87c069e0fc56144aa2664c1259038[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Nov 17 21:26:28 2020 +1300
+
+    Updated code with updated dec file
+
+[33mcommit 9dc819fac1a7a8bf74f128a5154e00b45cc5d6c8[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Nov 17 10:44:48 2020 +1300
+
+     with updated dec file
+
+[33mcommit d36ceb7a356a2417ec170f840396ba8e1843dd69[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Nov 12 16:50:36 2020 +1300
+
+    Updated code using @label
+
+[33mcommit 858875f856be083f711b54298c303f2054040ed2[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Nov 4 12:18:15 2020 +1300
+
+    Updated code using Nash Equilibrium
+
+[33mcommit 5161c6c70d21027aa5cf5f695d3d3915547737ff[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Oct 19 21:01:47 2020 +1300
+
+     updated code
+
+[33mcommit b21582f182608bd581c96ff3fcd3f76438713c63[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Oct 13 20:59:13 2020 +1300
+
+     Code Updated
+
+[33mcommit cd07da6c149d2fe1d8f11ea8b610d156e58895f8[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Oct 13 11:10:52 2020 +1300
+
+     Using Enum
+
+[33mcommit fb164d94d1bd5569219700153c07557aa64791bc[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Oct 9 17:14:59 2020 +1300
+
+     Nash equilibrium
+
+[33mcommit be74a8b76b8c4d744a8adb4b88f86de05251202a[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Sep 25 21:39:27 2020 +1200
+
+    Updated code
+
+[33mcommit 66172a6e10c73942cfea2191f4fc05b7ac66ab6d[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 23 18:06:10 2020 +1200
+
+    plainplateau.pl file updated
+
+[33mcommit 5cb96ca04d3dab22cb017678762022d0ae1494fd[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Sep 22 15:35:51 2020 +1200
+
+    Removed dec.pl~ from cache
+
+[33mcommit eee3291fd237acab657dc83211b86e9d64fbdad4[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Sep 22 15:34:10 2020 +1200
+
+    Deleted dec.pl and edited .gitignore
+
+[33mcommit cc5897c0f1f0eee0a5b05efbdc69b3b6e61eb9ca[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Sep 22 11:08:32 2020 +1200
+
+    Updated code
+
+[33mcommit b884aa0f1c0c483e7951295048ad206fb9db9507[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Sep 17 12:57:30 2020 +1200
+
+    Updated code
+
+[33mcommit 92b6d074d51532419457df1853db38995d73a087[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Sep 15 17:48:40 2020 +1200
+
+    Updated code
+
+[33mcommit 56237b41836ab0f2acaa3f8b1c6d2549cdf7a355[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 9 20:06:57 2020 +1200
+
+    Updated code
+
+[33mcommit 7dc9216bd63bc55179e30e4425b854c572bb8d95[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 9 10:04:17 2020 +1200
+
+    Updated code
+
+[33mcommit 2c41f75d0c1ba6f51dd1636f64ca210f0a51d1bf[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Sep 3 16:24:25 2020 +1200
+
+    Updated code
+
+[33mcommit 8a158c87412ba7dc1c41e1212361efe6f9caddfa[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Thu Sep 3 14:13:27 2020 +1200
+
+    Updated code
+
+[33mcommit 11dca583dc83fa09240e08519bd089305e2aa79f[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 2 20:49:15 2020 +1200
+
+    Update dec.pl and scenario_initially.pl
+
+[33mcommit 400dca7441cdb7376589052f50aa9e4cec291b66[m
+Merge: e5f4cd4 2434d3c
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 2 17:04:10 2020 +1200
+
+    Merge branch 'master' of https://bitbucket.org/scranefield/casp-plain-plateau-scenario
+
+[33mcommit e5f4cd47e43c2335327cb52d9a2fdda99b22fcf3[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Sep 2 16:25:15 2020 +1200
+
+    Updated dec.pl
+
+[33mcommit 2434d3cc8bdc367facf2ccd7577b7bff06e4fe2e[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Sep 1 20:11:21 2020 +1200
+
+    Delete unwanted files
+
+[33mcommit c9953167e8053327b78439bf01cc1b2520d8318e[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Sep 1 17:22:38 2020 +1200
+
+    Code Updated
+
+[33mcommit 69e7f69597416b8e811b9c43e276ef1ed196890e[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Sep 1 14:27:19 2020 +1200
+
+    Code Updated
+
+[33mcommit 342cc886f811f718d2d8ca8b5db8c88dc93b4690[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Aug 28 16:13:44 2020 +1200
+
+     Updated code
+
+[33mcommit ca8c281b30973bc726819409b47e907c6b53147f[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Aug 26 12:11:23 2020 +1200
+
+     plainplateau.pl updated
+
+[33mcommit 586c170ebd6f1b11ceb5555df20c123e04eaa5f3[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Aug 21 20:09:07 2020 +1200
+
+     Updated code
+
+[33mcommit cb052aada4424e89a8abd9128bb973b2765973b0[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Aug 21 18:35:50 2020 +1200
+
+     Updated code
+
+[33mcommit c8b0a8d791ffeb0e5f6f35e9f95c16ed07283f92[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Aug 21 18:20:05 2020 +1200
+
+    Updated code
+
+[33mcommit 31f21fa821feb7583405d10589ad431f88a64ed7[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Aug 17 14:25:16 2020 +1200
+
+     Some updates are there
+
+[33mcommit b38941b17cb6792d64d95eccd5e03dacd1e8307a[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Aug 12 19:01:26 2020 +1200
+
+     Updated code
+
+[33mcommit d86c50d05194f28fc18294cb37c441c234102751[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Jul 27 17:50:31 2020 +1200
+
+    added eventInitially for all initially stament
+
+[33mcommit 6fd686b27128e3b7f9046b14c582498ed1411020[m
+Merge: 82374a4 2430689
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Jul 27 17:24:27 2020 +1200
+
+    Fixing conflicts
+
+[33mcommit 82374a46adfe8b71d41562dd681c717d4006de92[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Sat Jul 25 19:53:33 2020 +1200
+
+    updated code
+
+[33mcommit 3209b438f82a2b4767a59d385d0f110237c97323[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Jul 24 19:46:21 2020 +1200
+
+    make some changes in prologQuery and created Scenario.txt
+
+[33mcommit ff1a4009a2ad3b80af9bb29fb150cdbb26791a11[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Jul 22 20:32:58 2020 +1200
+
+     some updates are there
+
+[33mcommit 2430689a4729bc1082cf0415123b04ef33a37ad4[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Jul 21 20:32:30 2020 +1200
+
+    Removed more files
+
+[33mcommit 3c20c73306afaf3a029a03460687876bbb653c39[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Jul 21 20:31:00 2020 +1200
+
+    Deleted files that shouldn't be in the repo
+
+[33mcommit 8ddb91c52aa5c34b9a859f6124ee521c874134e2[m
+Author: Stephen Cranefield <suppressed@email.address>
+Date:   Tue Jul 21 20:24:57 2020 +1200
+
+    Removed empty folder and add entries to .gitignore
+
+[33mcommit 577b3c061024408c10886c6c1d728bd92b54dee1[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Jul 21 16:39:10 2020 +1200
+
+    Minor changes
+
+[33mcommit e8a9e4bee6a8f300a0db43277257039b5dc44b52[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Jul 21 14:34:29 2020 +1200
+
+    Updated
+
+[33mcommit 7e989a47457457f2d4a5745f17bf11cf2afa6141[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Mon Jul 20 20:33:15 2020 +1200
+
+    Update code
+
+[33mcommit 763317fb2ee3e5fa4e17043f38bf8cb8493ad0dc[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Jun 30 19:51:07 2020 +1200
+
+    Remove dec.pl and use Adopt OpenJDK8 with JVM OpenJ9, and SWI prolog 7.6.4
+
+[33mcommit 98bb7cb586a884e98b493e3e8706b49bedb7befa[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Jun 12 17:26:24 2020 +1200
+
+    After removing some unnecessary part
+
+[33mcommit 50e660c750a19e38bb4d02d386cf10389f2cf3f7[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Jun 12 16:20:03 2020 +1200
+
+    with new dec.pl file
+
+[33mcommit b85ceb2fe0030d9977a30d69719ce7728cc2cbbc[m
+Author: Abira Sengupta <senab196@student.otago.ac.nz>
+Date:   Wed Jun 10 13:12:08 2020 +1200
+
+     I have changed prolog code
+
+[33mcommit b966a1be0ab80720717003cc06996bc9605cf25c[m
+Author: Abira Sengupta <senab196@student.otago.ac.nz>
+Date:   Wed Jun 10 12:17:13 2020 +1200
+
+     I have changed the priority
+
+[33mcommit 100fe2354f2e683a2e78521645e153b1f5aca93c[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Tue Jun 2 11:44:23 2020 +1200
+
+    I have added some new features
+
+[33mcommit 18ae3e3f8c7ebc73d566227cd9c001ebcff2194c[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Fri Mar 6 18:11:43 2020 +1300
+
+    I have change the position of the Tickcount from decideFlood() to calReward().
+
+[33mcommit 7ceaf1ec40e47ea294567da01159d137bf68edb8[m
+Author: senab <abira.sengupta@postgrad.otago.ac.nz>
+Date:   Wed Mar 4 17:03:37 2020 +1300
+
+    New caspPlainPlateau scenario coding
+
+[33mcommit 7aa205f6cad6f317dbf2855f58df2761991bde7e[m
+Merge: 671225a 0501ca7
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue May 28 22:02:21 2019 +1200
+
+    Merge branch 'master' of https://bitbucket.org/scranefield/casp-fishing-simulation
+
+[33mcommit 671225a4fdb2673590a9b5c91fd8140e87424da4[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue May 28 22:01:40 2019 +1200
+
+    Removed extra spaces before package declaration
+
+[33mcommit c21286b71b59ca0037c5ed9f102a402e149bbe2c[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue May 28 21:59:51 2019 +1200
+
+    Refactored caspFishing.VillagersRepastControllerAgent to make it more readable
+
+[33mcommit 0501ca750572500ae86fadc04be607413df1cdc8[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri May 24 04:37:52 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit d2d850d6eb9f39c31cb09c48e9f5d72866cc803d[m
+Author: Sriashalya Srivathsan <ashal.srivathsan@postgrad.otago.ac.nz>
+Date:   Fri May 24 04:35:39 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 702d16efa001bbb9e3602041f3aaffff260bc438[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri May 24 04:21:42 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 82502f9fd64b836e2661aefb7f1c2f8a7e6a4295[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri May 24 04:06:04 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit a96ddaa319afa8d60a0cdc6f16016a49871d845b[m
+Author: Sriashalya Srivathsan <ashal.srivathsan@postgrad.otago.ac.nz>
+Date:   Thu May 23 23:58:17 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit c150e88fc5cdce177fc010490d42a57dcc3f3993[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Thu May 23 21:26:23 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 35c6af06d65509d15f06bb7b86192a1c6329bfa5[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Thu May 23 21:22:45 2019 +0000
+
+    README.txt edited online with Bitbucket
+
+[33mcommit f4c3e9367cff8208c13f406d95aadf42e0b881d3[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri May 17 04:36:02 2019 +0000
+
+    README.txt edited online with Bitbucket
+
+[33mcommit 5ae890d7b50169a446b6730bcde97dca99f5689d[m
+Merge: 83ea6b1 98cca19
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed May 8 12:57:26 2019 +1200
+
+    Merge branch 'master' of https://bitbucket.org/scranefield/casp-fishing-simulation
+
+[33mcommit 83ea6b1a1bf9ec756e9c456a40a93b56e0ccf719[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed May 8 12:51:56 2019 +1200
+
+    Added projectSet.psf containing working set information, to be imported into Eclipse
+
+[33mcommit 98cca19c5316efb74935d15c19ce48d87b21d065[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Wed May 8 00:50:29 2019 +0000
+
+    README.txt edited online with Bitbucket
+
+[33mcommit 70c2f7ec5f7593483062d16344d97849df6ba42f[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Sep 19 16:44:39 2018 +1200
+
+    Documentation changes
+
+[33mcommit 1c43ed5b094ce0c7b2927dabc571899299ae0dd6[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Sep 19 16:36:11 2018 +1200
+
+    Added readme folders to ensure Git pulls creates needed folders
+
+[33mcommit 52df8f91fb413814c3d8ed73bbf536dae9188b73[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Sep 19 16:11:07 2018 +1200
+
+    Adding missing jar
+
+[33mcommit c28f44e36f7460bdffad984d22d4c28a8ffcc597[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Mon Sep 17 16:31:48 2018 +1200
+
+    Reformatted rules to make them easier to read.
+    Removed "next(always(...))" from some rules
+    Recompiled rules
+    
+    Villagers now join the team, but haven't seen fishing with the team occurring.
+
+[33mcommit f0e062d5dbd3e49989c147abe346edae9a45a8dd[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Sun Sep 16 22:32:47 2018 +1200
+
+    Change to use version 2.3.1 of Maxant rules.
+    Rule format changed in TeamApplicantRole.
+    Commented out code removed in VillagerRole.
+    Obsolete code removed from VillagersBuilder.
+    Fishing rules reformatted.
+
+[33mcommit 366567f32c01d79e32a53312fb20691a74c8f728[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Sep 11 12:31:12 2018 +1200
+
+    Added log4j2 configuration properties file and jars
+    Change to use latest snapshot of maxant-rules rather than my modified version inside casp.jar
+
+[33mcommit 3eacca5d71032d0bcc019aa4c36c1c42fa3d647a[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Fri Aug 24 13:28:59 2018 +1200
+
+    Updated MVEL version
+    Removed Maxant rules jars - now included as a submodule (with a modification)
+    Logging now uses log4j2
+    Removed need for rules to add roles to agents. Controller agent now does this based on event calculus trace of join action
+
+[33mcommit 3e0a9bfe353d244e4e73be4737145cc56681bc3e[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Fri Aug 17 22:58:05 2018 +1200
+
+    Removed old jar file
+
+[33mcommit 287bf42b16ccd6b20f3daa8652124aebc06f2f05[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Fri Aug 17 22:49:16 2018 +1200
+
+    Added back mvel2-2.2.1.Final.jar (not sure how it got removed)
+
+[33mcommit 1a33479c16607ad7e155bc806be09955b374f1a4[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri Aug 17 10:41:47 2018 +0000
+
+    lib/rules-2.1.0.jar deleted online with Bitbucket
+
+[33mcommit 867b63025168bfa98196c97154c6d33f40a6e855[m
+Author: Stephen Cranefield <scranefield@infoscience.otago.ac.nz>
+Date:   Fri Aug 17 10:36:06 2018 +0000
+
+    lib/rules-2.1.0.jar edited online with Bitbucket
+
+[33mcommit 70cbcd000faba7e81ffd2d608e778844b01a800d[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Fri Aug 17 22:19:20 2018 +1200
+
+    Using new version of casp.jar that has the Maxant input variable renamed to ag (for agent).
+    Object role classes have been updated to use "ag" instead of "input".
+    Updated version of Maxant rule jar file from rules-2.1.0.jar to rules-2.2.1.jar
+
+[33mcommit cc77adc0cfbd937223828224d039f4a5908e8543[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Fri Aug 10 12:43:34 2018 +1200
+
+    Removed debug.log from repository
+
+[33mcommit 656b070d50b50b0bb425d52958f856c7615ac453[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Thu Aug 2 13:10:49 2018 +1200
+
+    Minor tidy-ups
+
+[33mcommit 7519dcb2b991c32de29972ad739404e7b4bfefdd[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Thu Aug 2 12:44:19 2018 +1200
+
+    Chanegd so fishAlone only becomes an option when hungry
+
+[33mcommit a9b038064e0215f6fa2b371ef896130677314e24[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Thu Aug 2 12:12:33 2018 +1200
+
+    Events (as well as fluents) are now all grounded
+
+[33mcommit 7b5927624d3134296e7824a8db0976831e8b7724[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Thu Aug 2 12:03:06 2018 +1200
+
+    Villagers become "cooperators" (ie will choose to fishWithTeam because the utility is set to high) after querying for the existence of an expectation rule such that violating the exp to fishWithTeam results in a sanction (and "shirkers" if there is no such expectation rule).
+
+[33mcommit c7aba58aa86fa092c41b6d6d3f9e26643722f041[m
+Merge: 761d6a1 bbace93
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 21:16:04 2018 +1200
+
+    Merge branch 'master' of https://bitbucket.org/scranefield/casp-fishing-simulation
+
+[33mcommit 761d6a1951fca1eebe39e486dca4d3138b1635f0[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 21:12:54 2018 +1200
+
+    Removing debug.log
+
+[33mcommit bbace93d5afbc3436d19994dd59d8a193a166837[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Wed Aug 1 19:54:10 2018 +1200
+
+    Added hasSanction(Agent) to prolog
+
+[33mcommit 2e8df95f1f81a7be1d7a8b1156836837da72a651[m
+Merge: 888129b 7cddd44
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Wed Aug 1 16:58:00 2018 +1200
+
+    Merge branch 'master' of https://bitbucket.org/scranefield/casp-fishing-simulation
+    
+    # Conflicts:
+    #       src/caspFishing/agents/Villager.java
+
+[33mcommit 888129ba8d40b67d7fe5167e5f55cf59a23919fe[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Wed Aug 1 16:56:09 2018 +1200
+
+    Agents successfully query RTEC to ask whether other agents have an expectation to fishWithTeam on them.
+
+[33mcommit 7cddd44cd4f7f7c6c64acc7698357c8549e0d559[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 13:54:34 2018 +1200
+
+    Changed Log call for Villager.ecQuery
+
+[33mcommit 666fb4af3d042ce2e823303b046f55a6a343e8c7[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 13:00:53 2018 +1200
+
+    More rule fiddling!
+
+[33mcommit 64aa11717fcc14324e5a8c11019ae02ebae9a8b9[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 12:34:40 2018 +1200
+
+    Minor rule changes
+
+[33mcommit 8df6f319ba831ec965dd706ed6a1723ecc9e710c[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Wed Aug 1 10:58:07 2018 +1200
+
+    FOO
+
+[33mcommit 3cb82e75cbb870f2adde5cf717ca2509e25e47ae[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Wed Aug 1 00:11:57 2018 +1200
+
+    Changed violation-handing code in RTEC+Exps to keep always(_) expectations alive after violation.
+
+[33mcommit 24a29a67264db17a983a3dae3ac1ca56c93ee7e3[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 31 15:08:38 2018 +1200
+
+    RTEC expectation support fixes. Fulfs and Viols now show up at the timepoint after the violation was triggered.
+
+[33mcommit 260b7787058f246f591661ef51ca891abbcdc14c[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 31 00:21:04 2018 +1200
+
+    Fixed problems in Java files and added more debug code in the controller agent, as well as asserting a tick event for each step (needed for expectation progression to work correctly - only states with events in them have their expectations progressed).
+
+[33mcommit a8044e880e23403e11d569ab90f5bdaedba548d5[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Mon Jul 30 16:40:11 2018 +1200
+
+    Fixed Prolog input to generator so that fishWithTeam is recognised and included in CurrentEventsLiveAdaptor
+    Updated jar
+    Added debugging code to VillagersRepastControllerAgent to print expTList (the RTEC data structure holding expectations, fulfilments and violations)
+
+[33mcommit 611124d00d3134acc5a256d01e1335d076ce86e0[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Mon Jul 30 10:46:47 2018 +1200
+
+    Added more "next"s
+
+[33mcommit c0363aefdf12d9cff0dee81b9f28618a62603295[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Sun Jul 29 21:03:34 2018 +1200
+
+    FishermanRole looks for expectation to fishWithTeam
+
+[33mcommit 5b7cb585b620419a98a4db14f0c58a50f668d24a[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Sun Jul 29 20:28:28 2018 +1200
+
+    VillagersRepastControllerAgent now keeps track of team fishing
+
+[33mcommit c20a895369ddf827bfc9077dd021f66736f9b516[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Sun Jul 29 15:35:06 2018 +1200
+
+    Oops - had forgotten to add SkolemConstAgent
+
+[33mcommit 45617b6f9b3942ec47081653f05c99ef39ab36b6[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Thu Jul 26 14:04:54 2018 +1200
+
+    Adding updated casp.jar
+
+[33mcommit 56e795696d1124fa3bd7cbb68d0e5113810f0952[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Thu Jul 26 14:04:15 2018 +1200
+
+    Deleting casp.jar again (to be replaced)
+
+[33mcommit f6b14e4feed24978df5943d9933ae12aa3fb2b9b[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Thu Jul 26 13:38:09 2018 +1200
+
+    Removed old jar files.
+    Updated TeamApplicantRole rules to test changes in ExpectationFactory.
+
+[33mcommit 939e38e86b8f6695fa15428384cb00f94ed37a93[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Thu Jul 26 13:20:46 2018 +1200
+
+    Add updated casp jar file (with changes to Expectation and ExpectationFactory)
+
+[33mcommit 706582c0e3314e896aa64715092901aa8077ebf3[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Thu Jul 26 13:18:14 2018 +1200
+
+    Removed generated json files from repository.
+    Removed casp.jar (to be replaced in separate commit).
+    Added TestExpRuleDigestToExpectationObject.java to test creation of expectations in digests.
+    Changed number of agents in VillagersScenarioCreatorInstitutions.java (for quicker testing).
+
+[33mcommit db64899ab7b4c57f913ab5a016952ff9dc9405ce[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 24 08:59:00 2018 +1200
+
+    Updated instructions in README.txt
+
+[33mcommit 67f4a751c7c268647f74482b7532bf11164fbfff[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 17 16:08:00 2018 +1200
+
+    More changes for portability
+
+[33mcommit 2aa0a05ccd26bc40ddceae4aee8c255c482e6a4c[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 17 14:40:23 2018 +1200
+
+    Removing velocity.log
+
+[33mcommit 4b48e6f647c814f4171b7c0bd9b85876ed96a254[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 17 14:38:22 2018 +1200
+
+    Removing class files
+
+[33mcommit e595eae45a91780ac2612ba42fa7bf4b402064d2[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 17 14:29:44 2018 +1200
+
+    More additions and deletions
+
+[33mcommit dcb3fcb441337e8bf867d6f8c9016bbe90137f76[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Tue Jul 17 14:24:16 2018 +1200
+
+    Changes to make project portable
+
+[33mcommit d1c6fdd539a41e3dae6c917eee6bf2f0cb63b1f0[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Mon Jul 16 16:20:19 2018 +1200
+
+    Added Repast.settings to .gitignore
+
+[33mcommit 152ee9d5dd581bdb4b5b0b31cf2b25c80df10cb8[m
+Author: Stephen Cranefield <stephen.cranefield@otago.ac.nz>
+Date:   Mon Jul 16 15:57:37 2018 +1200
+
+    Renamed Repast.settings to Repast.settings-hannah. Can we just use a default settings file and exclude it from the repository?
+
+[33mcommit 1911f29c67323d8825e0c4c5f0efa1edbcc1e4c0[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Fri Jun 22 15:11:12 2018 +1200
+
+    'simulation'
+
+[33mcommit acc4c7352cd0380bd2c64989721b3d2433820fb1[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Mon Mar 12 11:43:32 2018 +1300
+
+    jar file
+
+[33mcommit cca7b6af85e1ed2fbe8bc644c795fc385e674260[m
+Author: Hannah Clark-Younger <hannah.cy@gmail.com>
+Date:   Wed Mar 7 11:37:11 2018 +1300
+
+    casp fishing project

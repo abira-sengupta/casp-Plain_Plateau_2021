@@ -1,0 +1,21 @@
+ {
+  "agents": [
+    "casp-config/plainplateaunorm/scenarios/institution/citizen.json",
+    "casp-config/plainplateaunorm/scenarios/institution/government.json"
+  ],
+  "roleClassNames": [
+    "caspPlainPlateauNorm.objectroles.DiscretionaryRegimeRole",
+    "caspPlainPlateauNorm.objectroles.RulesBasedRegimeRole" 
+  ],
+  "roleFileNames": [],
+  "institutionClassNames": [],
+  "institutionSetFilenames": [
+    "casp-config/plainplateaunorm/scenarios/institution/plainplateau_institution.json"
+  ],
+  "consultFileNames": [
+    "casp-config/plainplateaunorm/dec/plain_plateau.pl",
+    "casp-config/plainplateaunorm/dec/locationchange_role.pl",
+    "casp-config/plainplateaunorm/dec/role.pl",
+    "casp-config/plainplateaunorm/dec/scenario_initially.pl"
+  ]
+}

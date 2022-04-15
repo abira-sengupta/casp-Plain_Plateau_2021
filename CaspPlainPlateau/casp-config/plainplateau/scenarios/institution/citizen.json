@@ -1,0 +1,13 @@
+[
+  {
+    "agentCount": 2,
+    "agentType": "caspPlainPlateau.agents.CitizenAgent",
+    "prologType": "agent",
+    "json": {
+      "roleFileNames": [],
+      "roleClassNames": [],
+      "ptype": "agent",
+      "name": "Citizen"
+    }
+  }
+]

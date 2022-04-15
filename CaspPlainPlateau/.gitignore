@@ -1,0 +1,14 @@
+/Repast.settings
+/.project
+*.class
+*.log
+*.log.*
+*~
+/bin
+/.gradle
+/output
+/heapdump.*
+/javacore.*
+/core.*
+/Snap.*
+/*.code-workspace

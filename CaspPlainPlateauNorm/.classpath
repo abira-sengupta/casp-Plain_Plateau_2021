@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="con" path="REPAST_SIMPHONY_SUPPORT"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/jpl.jar"/>
+	<classpathentry kind="lib" path="lib/rules-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/mvel2-2.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/casp-core-0.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/javatuples-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

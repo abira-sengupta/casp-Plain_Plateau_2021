@@ -1,0 +1,16 @@
+{
+  "institutions": [
+    {
+      "classname": "caspPlainPlateau.institutions.Citizens",
+      "prologname": "citizens",
+      "name": "The Plain Plateau Citizens",
+      "prologtype": "institution"
+    },
+    {
+      "classname": "caspPlainPlateau.institutions.Government",
+      "prologname": "government",
+      "name": "The Plain Plateau Government",
+      "prologtype": "institution"
+    }
+  ]
+}
